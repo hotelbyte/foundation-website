@@ -129,6 +129,9 @@ ul {
 	display: block;
 	padding: 0;
 }
+.nav > li > a:hover {
+	color: #5e316e !important
+}
 .nav > li > a:hover,
 .nav > li > a:focus {
 	background-color: transparent;
