@@ -1,3 +1,5 @@
+[![Build Status master branch](https://travis-ci.org/hotelbyte/foundation-website.svg?branch=master)](https://travis-ci.org/hotelbyte/foundation-website)
+
 ## Hotelbyte Website Foundation
 
 Official website of Hotelbyte foundation, we have only these domains: https://hotelbyte.org and https://hotelbyte.foundation, any domain with .com or .net is a fake copy, please be careful before to download anything without our domain.
