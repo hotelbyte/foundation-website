@@ -672,8 +672,27 @@
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
 
-	  gtag('config', 'UA-113478312-1');
+	  gtag('config', 'UA-113478312-1', {
+		'linker': {
+    		'domains': ['hotelbyte.org', 'hotelbyte.foundation']
+  		}
+	  });
 	</script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113478312-4"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-113478312-4', {
+		'linker': {
+    		'domains': ['hotelbyte.org', 'hotelbyte.foundation']
+  		}
+	  });
+	</script>
+
+
   	<script async src="https://commerce.coinbase.com/v1/checkout.js"></script>
 </body>
 </html>
